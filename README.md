@@ -1,5 +1,4 @@
-# React-Native-Module-Demo
-This is not full project. just for customize components
+# React-Native-Customize-Component
 
 -User Auth
 
